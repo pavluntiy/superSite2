@@ -3,6 +3,7 @@ $STRINGS['Hello, my friend!'] = "Hello, my friend!";
 $STRINGS['login'] = "Login";
 $STRINGS['password'] = "password";
 $STRINGS['submit_login_form'] = "'Log in'";
-
-//	$LINKS['log_in_action'] = "javascript:alert('Hello!');";
-$LINKS['log_in_action'] = "login.php";
+$STRINGS['submit_login_form'] = "'Log in'";
+$STRINGS['Autentification error'] = "Autentification error";
+	$LINKS['log_in_action'] = "javascript:login();";
+//$LINKS['log_in_action'] = "login.php";

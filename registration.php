@@ -3,7 +3,7 @@
 <html>	
 	<?	
 		include("header.php");
-		$currentPageId = "index";
+		$currentPageId = "registration";
 		$currentLanguage = get_language();
 		$source = generate_page_data($currentPageId, $currentLanguage);
 		
